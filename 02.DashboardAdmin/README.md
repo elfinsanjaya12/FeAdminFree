@@ -9,9 +9,11 @@
 
 ## Screenshot
 
-1. Desktop
+1. Chart
+   <img src="image/chart.png">
+2. Desktop
    <img src="image/desktop.png">
-2. Tablet
+3. Tablet
    <img src="image/tablet.png">
-3. HP
+4. HP
    <img src="image/hp.png">
