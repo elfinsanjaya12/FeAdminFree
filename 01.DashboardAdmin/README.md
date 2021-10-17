@@ -10,8 +10,8 @@
 ## Screenshot
 
 1. Desktop
-   <img src="img/desktop.png">
+   <img src="image/desktop.png">
 2. Tablet
-   <img src="img/tablet.png">
+   <img src="image/tablet.png">
 3. HP
-   <img src="img/hp.png">
+   <img src="image/hp.png">
